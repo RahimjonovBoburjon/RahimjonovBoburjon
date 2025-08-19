@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a powerful project called Forcera – an AI-powered productivity platform that helps users stay focused, build discipline and achieve their long-term goals. Built with Vue.js, Vite, Tailwind CSS and Firebase Firestore.  <br>👯 I’m looking to collaborate on Vue.js and AI-powered projects.  <br>🌱 I’m currently learning advanced frontend development techniques.  <br>💬 Ask me about Full-stack development and Vue.js.  <br>⚡ Fun fact: I used to be a hardcore Counter-Strike player with the nickname "D4rkB055"!
+🔭 I’m currently working on a powerful project called Forcera – an AI-powered productivity platform that helps users stay focused, build discipline and achieve their long-term goals. Built with Vue.js, Vite, Tailwind CSS and Firebase Firestore.  <br>👯 I’m looking to collaborate on Vue.js and AI-powered projects.  <br>🌱 I’m currently learning advanced Full-stack development techniques.  <br>💬 Ask me about Full-stack development and Vue.js.  <br>⚡ Fun fact: I used to be a hardcore Counter-Strike player with the nickname "D4rkB055"!
 
 
 # 💻 Tech Stack:
