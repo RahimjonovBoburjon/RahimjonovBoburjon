@@ -18,5 +18,5 @@ This is my ranking of programming languages ​​used:
 ### ✍️ My Favorite Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=RahimjonovBoburjon&icon=0&color=3)](https://visitcount.itsvg.in)
+<!-- ---
+[![](https://visitcount.itsvg.in/api?id=RahimjonovBoburjon&icon=0&color=3)](https://visitcount.itsvg.in) -->
