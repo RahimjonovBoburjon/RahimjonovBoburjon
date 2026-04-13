@@ -13,7 +13,7 @@ This is my ranking of programming languages ​​used:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=RahimjonovBoburjon&theme=github_dark&hide_border=false)<br/>
 
-![](https://github-contributor-stats.vercel.app/api?username=RahimjonovBoburjon&limit=5&theme=neon&combine_all_yearly_contributions=true) -->
+![](https://github-contributor-stats.vercel.app/api?username=RahimjonovBoburjon&limit=5&theme=neon&combine_all_yearly_contributions=true) --> 
 
 ### ✍️ My Favorite Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
